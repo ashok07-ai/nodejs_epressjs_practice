@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d0",
+    "movieName": "Captain America",
+    "releaseDate": 2001
+  },
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d1",
+    "movieName": "Thor",
+    "releaseDate": 1997
+  },
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d5",
+    "movieName": "Interstellar",
+    "releaseDate": 1991
+  },
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d8",
+    "movieName": "Avatar",
+    "releaseDate": 2011
+  },
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d9",
+    "movieName": "Joker",
+    "releaseDate": 2005
+  },
+  {
+    "movieName": "The Averngers: Endgame",
+    "releaseDate": 1953,
+    "id": "8738b313-7cc3-4060-bea5-940e51be2b3d"
+  },
+  {
+    "movieName": "The Averngers: Infinity War",
+    "releaseDate": 1953,
+    "id": "ce5ec214-0175-4ac5-b2ec-6a9b1c91fdfa"
+  },
+  {
+    "movieId": "517f2fab-c5dd-4341-a8ab-ce55f5092930",
+    "movieName": "Mission Impossible: Rouge Nation",
+    "releaseDate": 2000
+  }
+]

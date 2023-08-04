@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_expressjs_course",
+  "version": "1.0.0",
+  "description": "This is basics about nodejs and express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ashok Dhawal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1",
+    "progressbar": "^1.3.0"
+  }
+}

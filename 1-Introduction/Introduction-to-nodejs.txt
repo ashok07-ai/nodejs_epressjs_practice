@@ -1,0 +1,25 @@
+INTRODUCTION TO NODEJS
+-- Nodejs is an open source and cross platform javascript runtime environment
+-- Nodejs runs on the V8 javascript engine
+-- Nodejs app runs on a single process, without creating a new thread for every request
+-- Nodejs uses event driven, non blocking I/O model to handle concurrent request with single thread
+
+ADVANTAGES OF USING NODEJS
+-- JavaScript everywhere (Client and Server)
+-- Fast Performance
+-- Lightweight: Build in event driven architecture
+-- Mordern Architecture and Scalability
+-- Cross Platform: Creating APIs
+-- Vast number of Libraries and Packages
+
+BUILD APPS WITH NODEJS
+-- Streaming web applications like Netflix, Amazon
+-- Realtime web applications like Chat, Instant Messaging(IM)
+-- Microservices and IOT applications
+-- Build MERN stack applications like Ecommerce, Payments
+-- Create Restful APIs
+
+NODEJS VS BROWSER
+-- Both the Browser and Nodejs use javascript as their programming language
+-- Building apps that runs in the Browser is a completely different thing than building a Nodejs application
+-- With Browser we have access to DOM, Web API where as with Nodejs we have modules provice to access the file system, OS

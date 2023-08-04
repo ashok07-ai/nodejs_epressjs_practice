@@ -1,0 +1,15 @@
+{
+  "name": "file_system_and_path_modules",
+  "version": "1.0.0",
+  "description": "This is information about file system and path moduels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ashok Dhawal",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

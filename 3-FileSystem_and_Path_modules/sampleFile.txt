@@ -1,0 +1,2 @@
+Information about constructor. Constructor is a method that is automatically called when an object is created.s
+Importance of constructor are: Inheritance, Encapsulation
